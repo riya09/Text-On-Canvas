@@ -1,0 +1,13 @@
+#mycanvas{
+	display: in;
+	margin-left: 30%;
+}
+#name{
+	position: fixed;
+	height: 20%;
+	
+}
+
+#canvas_size,#bg-color,#font_type{
+	display: block;
+}
